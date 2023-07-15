@@ -1,0 +1,2 @@
+# UNet experiments: Loss function
+python main.py --enc "efficientnet-b4" --dec "UNETPLUSPLUS" --gpu "cuda:0" --s1 True --s2 True --dsm True --lossf 3 --patch_size 128 --lr 0.00001 --batch_size 16 --modelname "PS+S1+S2+DSM_lossf3_patch128"
