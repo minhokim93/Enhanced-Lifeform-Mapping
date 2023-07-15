@@ -8,8 +8,9 @@ All experiments were trained from scratch in PyTorch (v2.0.1) and Python 3.10.4 
 The figure below shows an overview of the study:
 
 <p align="center">
-![alt text](./figures/figure4.jpg)
+  <img src="./figures/figure4.jpg" alt="Image" />
 </p>
+
 
 Key Requirements
 ---------------------
