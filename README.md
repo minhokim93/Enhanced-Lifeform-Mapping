@@ -20,6 +20,7 @@ Key Requirements
 - torch
 - torchvision
 - sklearn
+  
 See environment.yml for details
 
 Usage
