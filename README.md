@@ -11,6 +11,12 @@ The figure below shows an overview of the study:
   <img src="./figures/figure4.jpg" alt="Image" />
 </p>
 
+Datasets
+---------------------
+Input data include Planetscope, Sentinel-2, and Sentinel-1 imagery. High resolution DSM was acquired from Pacific Veg Map.
+- Marin Data [(Link)](https://drive.google.com/file/d/1G2Z0OT_i3o5Lx8ap4dYH5exMWQP0153v/view?usp=share_link)
+- San Mateo Data [(Link)](https://drive.google.com/file/d/1G2Z0OT_i3o5Lx8ap4dYH5exMWQP0153v/view?usp=share_link)
+
 
 Key Requirements
 ---------------------
