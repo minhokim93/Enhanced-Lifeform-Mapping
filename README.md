@@ -6,6 +6,7 @@ High resolution fuel maps are useful for high resolution wildfire simulations an
 All experiments were trained from scratch in PyTorch (v2.0.1) and Python 3.10.4 and were performed using NVIDIA 2080ti GPUs with 12 GB of memory. The code enables parallel processing of GPUs. ELMs were acquired from http://pacificvegmap.org, maintained by Tukman Geospatial with funding from CALFIRE.
 
 The figure below shows an overview of the study:
+
 ![alt text](./figures/figure4.jpg)
 
 Key Requirements
