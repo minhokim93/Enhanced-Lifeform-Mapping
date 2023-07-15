@@ -1,0 +1,36 @@
+﻿lifeform,num
+Annual Cropland,1
+Aquaculture,2
+Aquatic Vegetation,3
+Barren,4
+Channel,2
+Developed,5
+Eel Grass,3
+Forest Fragment,6
+Freshwater Wetland,7
+Herbaceous,8
+Intensively Managed Hayfield,9
+Irrigated Pasture,9
+Major Road,5
+Mudflat,4
+Native Forest,10
+Native Shrub,11
+Non-native Forest,12
+Non-native Herbaceous,13
+Non-native Shrub,11
+Nursery or Ornamental Horticulture Area,12
+Orchard or Grove,14
+Perennial Cropland,1
+Shrub Fragment,11
+Tidal Wetland,7
+Vineyard,14
+Water,2
+Barren and Sparsely Vegetated,4
+Conifer,10
+Deciduous Hardwood,10
+Evergreen Hardwood,10
+Forest,6
+Freshwater Herbaceous Wetland,7
+Perennial Agriculture,1
+Riparian Forest,6
+Shrub,11
