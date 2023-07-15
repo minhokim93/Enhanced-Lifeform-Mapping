@@ -1,9 +1,6 @@
 # Mapping Enhanced Lifeforms with High Resolution Remote Sensing Data (IGARSS 2023)
 Authors: [Minho Kim](https://minho.me), Iryna Dronova, John Radke
 
-The model is shown below:
-
-![alt text](./images/msmla.jpg)
 
 All experiments were trained from scratch in PyTorch (v2.0.1) and Python 3.10.4 and were performed using NVIDIA 2080ti GPUs with 12 GB of memory. The code enables parallel processing of GPUs. 
 
