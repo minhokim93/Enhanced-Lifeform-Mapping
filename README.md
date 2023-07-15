@@ -17,6 +17,7 @@ Input data include Planetscope, Sentinel-2, and Sentinel-1 imagery. High resolut
 - Marin Data [(Link)](https://drive.google.com/file/d/1gAf7L-5UXDd7g0zLy3_jZarysBM2-ate/view?usp=share_link)
 - San Mateo Data [(Link)](https://drive.google.com/file/d/1G2Z0OT_i3o5Lx8ap4dYH5exMWQP0153v/view?usp=share_link)
 
+Planetscope data can be acquired from Planet Labs.
 
 Key Requirements
 ---------------------
