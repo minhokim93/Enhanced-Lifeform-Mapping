@@ -3,8 +3,9 @@ Authors: [Minho Kim](https://minho.me), Iryna Dronova, John Radke
 
 High resolution fuel maps are useful for high resolution wildfire simulations and detection of hazards on the landscape. In general, high resolution Enhanced Lifeform Maps (ELMs) are used in conjunction with other data layers to create these fuel maps. However, ELMs are costly to make with substantial manual editing involved. In response, this study uses deep learning-based semantic segmentation models to generate 5-m resolution ELMs (14 classes) in Marin and San Mateo, California using high resolution remote sensing datasets. ELM classes were found to be severely imbalanced, leading to model overfitting. Sample weighted loss functions helped alleviate this issue to an extent. High resolution ELMs are bound to be more valuable with the growing fire risk and landscape heterogeneity, particularly near the wildland urban interface.
 
-All experiments were trained from scratch in PyTorch (v2.0.1) and Python 3.10.4 and were performed using NVIDIA 2080ti GPUs with 12 GB of memory. The code enables parallel processing of GPUs. 
+All experiments were trained from scratch in PyTorch (v2.0.1) and Python 3.10.4 and were performed using NVIDIA 2080ti GPUs with 12 GB of memory. The code enables parallel processing of GPUs. ELMs were acquired from http://pacificvegmap.org, maintained by Tukman Geospatial with funding from CALFIRE.
 
+The figure below shows an overview of the study:
 ![alt text](./figures/figure4.jpg)
 
 Key Requirements
